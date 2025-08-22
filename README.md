@@ -7,9 +7,10 @@ Options > Resource Packs > Open Pack Folder
 
 drag the resource packs and put the following resource packs in the following order:
 
-- Classic Reimagined 7
+- Better Default 7 (Legacy)
 - Beta Continuum
 - Programmer Art
 
 Once it's done, you can play Minecraft with **Classic Reimagined 7** in Minecraft 1.20
+
 
